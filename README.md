@@ -1,2 +1,2 @@
-# suinox_api_storage_firebase_folder
-api para upload de arquivos simples 
+# SUINOX_API_STORAGE_FIREBASE_FOLDER
+
